@@ -13,6 +13,4 @@ printf("Value of num2 is:");
 scanf("%d",&num2);
 total = num1 + num2;
 printf("Result is %d",total);
-printf("Meta");
-printf("Meta001");
 }
